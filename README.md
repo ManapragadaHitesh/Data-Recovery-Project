@@ -41,6 +41,6 @@ Data Recovery Application requires
 [code.visualstudio.com](https://code.visualstudio.com/) Windows version Text editor.              
 
 ## Development
-[python.org](www.python.org) version 8 to run.
+[DD_Imager.py](https://drive.google.com/file/d/1J4mPRt0diSIyHlQ0Q6iASRZs4ixTKxQ-/view?usp=sharing) Python code for Imaging the memory device.
 
-[python.org](www.python.org) version 8 to run.
+[ntfs_pattern.py](https://drive.google.com/file/d/13PYXC7GluImiUHeFPhJjB0C3juKYqu-y/view?usp=sharing) Python code for recovering the files from the dd image file.
