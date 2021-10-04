@@ -44,3 +44,8 @@ Data Recovery Application requires
 [DD_Imager.py](https://drive.google.com/file/d/1J4mPRt0diSIyHlQ0Q6iASRZs4ixTKxQ-/view?usp=sharing) Python code for Imaging the memory device.
 
 [ntfs_pattern.py](https://drive.google.com/file/d/13PYXC7GluImiUHeFPhJjB0C3juKYqu-y/view?usp=sharing) Python code for recovering the files from the dd image file.
+
+## Observations
+1. Data which is recently deleted has been recovered Successfully, without any data loss.
+2. While capturing the clone image of the memory device the execution time(minutes) is equivalent to the capacity of the memory device. For example, 2GB of memory device takes 2 minutes of execution time approximately.
+
